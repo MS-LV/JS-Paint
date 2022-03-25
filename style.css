@@ -1,0 +1,23 @@
+body{
+	width: 100vw;
+	height: 100vh;
+	carrent-color:red;
+	margin: 0px;
+}
+canvas{
+	display: block;
+	overflow: hidden;
+	width: 100vw;
+}
+.flex{
+	margin: 0px;
+	display: flex;
+	height: 50px;
+	position: absolute;
+	left: 30;
+	top: 0;
+	justify-content: space-around;}
+input[type = "color"]{
+	width: 100px;
+	height: 50px;
+}
